@@ -11,6 +11,8 @@ It focuses on modern UI design and responsive layout.
 ##  Project Structure
 /project-folder
 │── index.html
-│── style.css
+│── style/
+|-style.css
+|-normalize.css
 │── index.js
 │── images/
